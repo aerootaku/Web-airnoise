@@ -23,6 +23,7 @@
                         <a class="dropdown-item" href="profile.php"><i class="mdi mdi-account-circle m-r-5"></i> Profile</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-primary" href="logout.php?logout=true"><i class="mdi mdi-power text-primary"></i> Logout</a>
+                        <!-- test kay -->
                     </div>
                 </div>
             </li>
